@@ -1,4 +1,4 @@
-#👋 Hi, I'm Jagadish Sonamale
+# 👋 Hi, I'm Jagadish Sonamale
 
 🎯 **Technical Manager | Backend Architect | Machine Learning Enthusiast**
 
