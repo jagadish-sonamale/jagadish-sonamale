@@ -63,7 +63,7 @@
 
 ## ⭐ Featured Projects
 
-👉 [View Featured Projects →](https://github.com/JagadishSonamale/featured-projects)
+👉 [View Featured Projects →](https://github.com/jagadish-sonamale/featured-projects)
 
 Brief collection of selected, high-impact projects using FastAPI, Docker, Kubernetes, GitHub Actions, and TFLite.
 
