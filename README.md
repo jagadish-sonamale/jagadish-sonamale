@@ -61,12 +61,19 @@
 
 ---
 
-### ⭐ Featured Projects
+## ⭐ Featured Projects
 
-| Project | Tech | Description |
-|--------|------|-------------|
-| [Customer Churn Prediction](https://github.com/jagadish9084/customer-churn-prediction-api) | FastAPI, Scikit-learn, Docker | End-to-end API to predict customer churn using machine learning |
-| Coming soon... | FastAPI + LangChain | AI for Agri Advisory in regional languages |
+👉 [View Featured Projects →](https://github.com/JagadishSonamale/featured-projects)
+
+Brief collection of selected, high-impact projects using FastAPI, Docker, Kubernetes, GitHub Actions, and TFLite.
+
+---
+
+## 📘 Notes & Guides
+
+👉 [View Notes & Guides →](https://github.com/JagadishSonamale/notes-and-guides)
+
+Includes well-structured machine learning notes, Docker/K8s setup guides, and reusable CI/CD templates.
 
 ---
 
