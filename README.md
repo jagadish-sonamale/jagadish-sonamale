@@ -13,7 +13,6 @@
 - 🧠 Deepening expertise in **Machine Learning & MLOps**  
 - 🔧 Tech Manager @ **Standard Chartered Bank**, leading Open Banking APIs  
 - 🎓 Currently pursuing **Master's in AI & ML (Woolf University)**  
-- 👶 Balancing code & fatherhood with my 21-month-old 👨‍👩‍👦  
 - 🌱 Exploring **AI in agriculture, finance & distributed systems**
 
 ---
@@ -28,10 +27,24 @@
 
 ### 📈 Currently Working On
 
-- 🧪 [Customer Churn Prediction API](https://github.com/jagadish9084/customer-churn-prediction-api) – FastAPI + ML + Docker  
-- 📊 Building regression/classification models for real-world datasets  
-- ⚙️ Automating deployment with GitHub Actions, Docker, and Kubernetes  
-- 🎯 Optimizing backend services with caching, event-driven design, and observability  
+- 🧪 Developing real-world ML APIs (e.g., customer churn prediction) using FastAPI, Docker, and GitHub Actions.
+- 📊 Building regression and classification models with Scikit-Learn and TensorFlow, optimized using TFLite for lightweight deployment.
+- 🤖 Exploring Deep Learning architectures (ANN, CNN, RNN) and applying them to both tabular and unstructured data problems.
+- 🗣️ Working on NLP projects using Hugging Face Transformers, LangChain, and voice-based regional language input for AI-powered advisory systems.
+- ⚙️ Practicing end-to-end **MLOps** workflows using:
+  - **Docker** for containerization  
+  - **GitHub Actions** for CI/CD  
+  - **Kubernetes (AWS EC2)** for scalable deployment  
+  - **MLflow** for model tracking  
+  - **DVC (Data Version Control)** for dataset management  
+  - **TensorBoard** for experiment monitoring  
+  - **Streamlit** for quick POCs and internal dashboards
+- 🔧 Optimizing backend architecture using event-driven design, distributed caching, logging, and observability.
+- 🎓 Pursuing a Master’s in AI & ML from Woolf University — specializing in production-grade systems with DL, NLP, and full-scale MLOps pipelines.
+- 🧱 Growing into an **AI-first Software Architect**, combining system design with intelligent automation, cloud-native principles, and MLOps excellence.
+
+
+
 
 ---
 
